@@ -22,7 +22,6 @@ I have good experience with Kotlin Multiplatform with which I have written sever
 
  - Site: https://anmolverma.in
  - LinkedIn: https://www.linkedin.com/in/anmolverma92/
- - Telegram: https://t.me/oianmol
  - Twitter: https://twitter.com/oianmol
 
 ##  👀 What I am into at the moment ?
