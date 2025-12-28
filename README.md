@@ -1,82 +1,114 @@
-<h1 align="center">Hi 👋, I'm Anmol</h1>
-<h3 align="center">A passionate developer writing mobile apps since 2014, 
-I have  experience working with Android, Kotlin, Flutter, Kotlin Multiplatform, sometimes BE</h3>
+# 👋 Hi, I’m Anmol Verma
 
-I have worked on projects with 
-1. Google
-2. AccuWeather
-3. Seagate
-4. Anderson Columbia
-5. Delivery Hero SE
+**Principal / Lead Mobile & Kotlin Multiplatform Engineer**  
+📍 India
 
-I have been writing products with clean architecture MVVM/MVI, and the features are covered with the following 
+I design and build **scalable mobile platforms** for Android & iOS using **Kotlin, Jetpack Compose, and Kotlin Multiplatform (KMP/KMM)**. With **12+ years of experience**, I specialize in **platform engineering, clean architecture, testing strategy, and developer productivity**—especially in regulated domains like **fintech**.
 
-1. Unit testing
-2. Instrumentation tests
-3. Espresso Tests
-4. E2E Tests
+---
 
-I have good experience with Kotlin Multiplatform with which I have written several apps and SDKs for projects at office and freelance contracts. Since I have worked with Flutter in the past I can build high performance cross platform apps as well.
+## 💼 What I Do
 
-## 📫  Contact Me:
+### 📱 Mobile Platforms
+- Android (Kotlin, Jetpack Compose)
+- iOS (via Kotlin Multiplatform)
+- Flutter
+- Native iOS / Android
 
- - Site: https://anmolverma.in
- - LinkedIn: https://www.linkedin.com/in/anmolverma92/
- - Twitter: https://twitter.com/oianmol
+### 🧩 Kotlin Multiplatform (KMP/KMM)
+- Shared business logic
+- Internal SDKs
+- Monorepo builds
+- Platform abstractions
 
-##  👀 What I am into at the moment ?
+### 🏗 Architecture & Design Systems
+- Clean Architecture
+- Modularization
+- SOLID principles
+- Atomic Design systems
 
-- Some amazing projects at office!
-- Kotlin Multiplatform OS projects
-- Flutter.
-- Jetpack Compose Android!
+### 🧪 Quality & Testing
+- Unit testing
+- UI & instrumentation testing
+- E2E & automation testing
+- Test strategy and flakiness reduction
 
-## 🎬 OS Projects:
+### ⚙️ DevOps & Tooling
+- CI/CD pipelines
+- Gradle build engineering
+- Custom Android Device Farms
 
-[Multiplatform gRPC Slack Clone](https://github.com/oianmol/SlackComposeMultiplatform)
+---
 
-[Harvest Clone - Kotlin multiplatform project](https://github.com/mutualmobile/HarvestTimeKMP)
+## 🚀 Professional Highlights
 
-[Praxis - Kotlin multiplatform base project](https://github.com/mutualmobile/praxiskmm)
+- **Principal KMM Engineer @ NymCard (Fintech)**  
+  Leading Kotlin Multiplatform development for Android & iOS, managing platform teams, internal SDKs, monorepo builds, and cross-platform design systems.
+- Built mobile applications from scratch using **Jetpack Compose**, with high test coverage and modular architectures.
+- Reduced testing costs by **~50%** by designing a **Custom Android Device Farm** with intelligent test sharding.
+- Led **Java → Kotlin migrations** across large production codebases, improving safety and maintainability.
+- Increased test coverage by **~40%**, significantly reducing regressions and improving release stability.
+- Mentored engineers and established strong engineering standards across multiple teams.
 
-[Praxis - Andoid Base project with Jetpack compose, clean architecture.](https://github.com/mutualmobile/praxis)
+---
 
-[Praxis - Flutter Base project with clean architecture](https://github.com/mutualmobile/praxisflutter)
+## 🛠 Tech Stack
 
-[JetCalendarView - Jetpack compose calendar view](https://github.com/oianmol/JetCalendarView)
+### Languages & Frameworks
+- Kotlin, Java
+- Jetpack Compose
+- Kotlin Multiplatform (KMP/KMM)
+- Flutter, React Native
 
-[Slack Flutter Clone](https://github.com/oianmol/flutter_slack)
+### Architecture
+- Clean Architecture
+- Modularization & Public API patterns
+- Atomic Design Systems
+- SOLID principles
 
-[Slack Android Clone (Jetpack Compose)](https://github.com/oianmol/slackandroidclone)
+### Testing
+- Unit testing
+- UI & instrumentation testing
+- E2E & automation testing
 
-[Discord Android Clone (Jetpack Compose)](https://github.com/oianmol/DiscordJetpackCompose)
+### Backend & Platform
+- Ktor
+- Spring Boot
+- Exposed ORM
+- SQL & NoSQL databases
 
-[Twitter Android Clone (Jetpack Compose)](https://github.com/oianmol/jettwitter)
+### DevOps
+- CI/CD pipelines
+- Gradle (advanced build logic)
+- Monorepo strategies
+- Custom device farms
 
-[Compose Animations Playground](https://github.com/oianmol/ComposeAnimationsPlayground)
+---
 
-[SwiftUI Netflix Animation](https://github.com/oianmol/SwiftUIAnimations)
+## 🤝 Open to Opportunities
 
+I’m open to:
+- Principal / Staff / Lead Engineer roles
+- Kotlin Multiplatform & Platform Engineering
+- Fintech, SaaS, and developer platforms
+- Contract or full-time (remote)
 
-## ⚡ Languages/Tech that I have worked on.
+If you’re building:
+- A cross-platform mobile platform
+- A shared SDK or design system
+- A high-quality, testable mobile architecture
 
- - JAVA
- - Kotlin, Ktor, Android
- - Dart, Flutter
- - Spring Boot
- - Databases: MySQL, MongoDB, Postgresql, Sqlite
+**I can help.**
 
+---
 
-##  💻 My Stuff
+## 📫 Get in Touch
 
- - IDE: Android Studio, Intellij Ultimate,VS Code
- - Desktop:
-	 - CPU: I7 10700 @ 2.9GGz
-	 - RAM: 32GB 3200MHz
-	 - OS: MacOS (Hackintosh)
-- Laptop:
-	- MacBook Pro M1 14"
+- 📧 Email: **anmol.verma4@gmail.com**
+- 💼 LinkedIn: https://www.linkedin.com/in/oianmol/
+- 🧠 Blog / Medium: https://medium.com/@oianmol
+- 🌐 X: https://x.com/oianmol
 
+---
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=oianmol&show_icons=true&locale=en" alt="oianmol" /></p>
-
+⭐️ *If you’re a recruiter or hiring manager, feel free to reach out—happy to discuss how I can add value to your team.*
