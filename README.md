@@ -47,7 +47,7 @@ I design and build **scalable mobile platforms** for Android & iOS using **Kotli
 - Built mobile applications from scratch using **Jetpack Compose**, with high test coverage and modular architectures.
 - Reduced testing costs by **~50%** by designing a **Custom Android Device Farm** with intelligent test sharding.
 - Led **Java → Kotlin migrations** across large production codebases, improving safety and maintainability.
-- Increased test coverage by **~40%**, significantly reducing regressions and improving release stability.
+- Increased test coverage, significantly reducing regressions and improving release stability.
 - Mentored engineers and established strong engineering standards across multiple teams.
 
 ---
