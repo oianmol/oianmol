@@ -16,6 +16,7 @@ I design and build **scalable mobile platforms** for Android & iOS using **Kotli
 - iOS (via Kotlin Multiplatform)
 - Flutter
 - Native iOS / Android
+- Backend Ktor(Kotlin)
 
 ### 🧩 Kotlin Multiplatform (KMP/KMM)
 - Shared business logic
