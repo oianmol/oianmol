@@ -58,10 +58,11 @@ I design and build **scalable mobile platforms** for Android & iOS using **Kotli
 ## 🛠 Tech Stack
 
 ### Languages & Frameworks
-- Kotlin, Java
-- Jetpack Compose
+- Kotlin, Java, Swift
+- Jetpack Compose, SwiftUI
 - Kotlin Multiplatform (KMP/KMM)
-- Flutter, React Native
+- Flutter, Native
+- Ktor, Springboot
 
 ### Architecture
 - Clean Architecture
