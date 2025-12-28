@@ -3,6 +3,8 @@
 **Principal / Lead Mobile & Kotlin Multiplatform Engineer**  
 📍 India
 
+👉 [View Resume (PDF)](https://github.com/oianmol/oianmol/blob/master/Resume%20Dec%202025.pdf)
+
 I design and build **scalable mobile platforms** for Android & iOS using **Kotlin, Jetpack Compose, and Kotlin Multiplatform (KMP/KMM)**. With **12+ years of experience**, I specialize in **platform engineering, clean architecture, testing strategy, and developer productivity**—especially in regulated domains like **fintech**.
 
 ---
