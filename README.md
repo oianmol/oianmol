@@ -95,7 +95,7 @@ I’m open to:
 - Principal / Staff / Lead Engineer roles
 - Kotlin Multiplatform & Platform Engineering
 - Fintech, SaaS, and developer platforms
-- Contract or full-time (remote)
+- Contract or full-time
 
 If you’re building:
 - A cross-platform mobile platform
